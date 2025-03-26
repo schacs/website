@@ -46,6 +46,8 @@ For more detailed information, please visit our website or contact us directly.
 
 [Contact MetrixFreight for more insights](https://metrilus.com/en/contact)
 
+[Freight Dimensioning Discussion Group](https://groups.google.com/g/freight-dimensioning)
+
 
 # Metrilus Frachtlösungen
 
@@ -94,3 +96,5 @@ Wir bieten fortschrittliche Volumenmesssysteme, die sich für diverse logistisch
 Für detailliertere Informationen besuchen Sie bitte unsere Webseite oder kontaktieren Sie uns direkt.
 
 [Kontaktieren Sie MetrixFreight für weitere Einblicke](https://metrilus.com/de/kontakt)
+
+[Frachtvermessung Google Group](https://groups.google.com/g/frachtvermessung)
